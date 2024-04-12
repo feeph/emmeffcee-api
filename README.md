@@ -16,7 +16,7 @@ The modular fan controller is an ARGB and fan controller with these characterist
 - independent from the computer's OS
 - I²C-based
 - multi-channel capable
-- extendedable and customizable
+- extendable and customizable
 
 It consists of a hardware- and a software-based component.
 
